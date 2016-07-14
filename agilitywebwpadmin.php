@@ -100,8 +100,15 @@ function agilityweb_info_widget() {
 
 }
 
+// Admin CSS
+function print_admin_css()
+{?>
+
+<link rel="stylesheet" href="<?php echo (bloginfo("wpurl").'/'.PLUGINDIR.'/'.dirname(plugin_basename(__FILE__)).'/css/admin.css" type="text/css" media="screen" />'."\n"); 
+}
 
 
+add_action('admin_head','print_admin_css');
 
 
 ?>
