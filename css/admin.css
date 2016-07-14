@@ -1,9 +1,10 @@
+/**
 .screen-reader-text{
 position:relative !important;
 left:0px !important;
 }
 body, td, textarea, input, select {
-font-family:"Monotype Corsiva",Georgia;
+font-family:arial;
 font-size:18px !important;
 }
 
@@ -16,7 +17,7 @@ font-size:18px;
 }
 
 #dashboard_quick_press h4 {
-font-family:"Monotype Corsiva",Georgia;
+font-family:arial;
 font-size:18px;
 }
 
@@ -36,12 +37,12 @@ font-size:18px;
 }
 
 #adminmenu .wp-submenu a {
-font-family:"Monotype Corsiva",Georgia;
+font-family:arial;
 font-size:18px;
 }
 
 #adminmenu a.menu-top, #adminmenu .wp-submenu-head {
-font-family:"Monotype Corsiva",Georgia;
+font-family:arial;
 font-size:20px;
 width: 60px;
 min-width:6.7em;
@@ -60,7 +61,7 @@ font-size:18px;
 font-size:18px;
 }
 #wphead h1 {
-font-family:"Monotype Corsiva",Georgia;
+font-family:arial;
 }
 
 #wphead #site-visit-button {
@@ -78,7 +79,7 @@ font-size:18px;
 
 .button-primary {
 
-font-family:"Monotype Corsiva",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+font-family:arial;
 }
 
 
@@ -87,7 +88,7 @@ font-size:18px;
 }
 
 #dashboard-widgets h4 {
-font-family:"Monotype Corsiva","Times New Roman","Bitstream Charter",Times,serif;
+font-family:arial;
 font-size:18px;
 }
 .button, .submit input, .button-secondary{
@@ -105,3 +106,4 @@ color:#FFFFFF;
 border-color:#006400;
 color:#FFD700;
 }
+**/
