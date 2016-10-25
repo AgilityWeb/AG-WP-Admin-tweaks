@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: AgilityWeb WP Admin
+Plugin Name: AG-WP-Admin-tweaks
 Description: All of the important functionality of your site belongs in this.
 
 Version: 0.1
